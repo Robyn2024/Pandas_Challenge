@@ -1,0 +1,5 @@
+Observable Trends Based Off of the Data Presented
+
+1. The top five schools are all charter schools while the lowest-performing schools are all district schools.
+
+2.The spending ranges per student shows that the lower budget spent per student is more successful(<$585-630) than the high spending ranges spent per student($630-680).
